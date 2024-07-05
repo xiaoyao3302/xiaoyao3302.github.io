@@ -8,7 +8,7 @@ I am currently a first-year Ph.D. candidate at the University of Sydney, supervi
 
 ## Research Interests
 
-- **AI4Science:** AI4Medical
+- **AI4Science:** AI4Medical, AI4Energy
 - **Computer Vision:** point cloud recognition, image segmentation
 - **Machine Learning:** domain adaptation, semi-supervised learning, noisy label
 
