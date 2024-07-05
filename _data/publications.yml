@@ -1,0 +1,33 @@
+main:
+
+  - title: Progressive Classifier and Feature Extractor Adaptation for Unsupervised Domain Adaptation on Point Clouds
+    authors: <strong>Zicheng Wang</strong>, Zhen Zhao, Yiming Wu, Luping Zhou and Dong Xu
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2303.01276
+    code: https://github.com/xiaoyao3302/PCFEA
+    image: ./assets/img/PCFEA.png
+
+  - title: Alternate Diverse Teaching for Semi-supervised Medical Image Segmentation
+    authors: Zhen Zhao, <strong>Zicheng Wang</strong>, Dian Yu, Longyue Wang, Yixuan Yuan and Luping Zhou
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2311.17325
+    code: https://github.com/zhenzhao/AD-MT
+    image: ./assets/img/ADMT.png
+    
+  - title: Conflict-Based Cross-View Consistency for Semi-Supervised Semantic Segmentation
+    authors: <strong>Zicheng Wang</strong>, Zhen Zhao, Xiaoxia Xing, Dong Xu, Xiangyu Kong and Luping Zhou
+    conference_short: CVPR
+    conference: IEEE/CVF Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2303.01276
+    code: https://github.com/xiaoyao3302/CCVC
+    image: ./assets/img/CCVC.png
+
+  - title: Domain Adaptive Sampling for Cross-Domain Point Cloud Recognition
+    authors: <strong>Zicheng Wang</strong>, Wen Li and Dong Xu
+    conference_short: T-CSVT
+    conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(T-CSVT)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10124433
+    image: ./assets/img/DAS.png
+
