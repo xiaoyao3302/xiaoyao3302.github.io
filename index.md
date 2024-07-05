@@ -17,7 +17,7 @@ I am currently a first-year Ph.D. candidate at the University of Sydney, supervi
 - **[Jul. 2024]** Two papers accepted by ECCV 2024.
 - **[Mar. 2024]** Awarded University of Sydney International Scholarship!
 - **[Dec. 2023]** One paper accepted by T-CSVT.
-- **[Feb. 2019]** One paper accepted by CVPR 2023.
+- **[Feb. 2023]** One paper accepted by CVPR 2023.
 
 {% include_relative _includes/publications.md %}
 
