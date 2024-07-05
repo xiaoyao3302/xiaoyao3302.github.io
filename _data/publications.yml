@@ -4,7 +4,7 @@ main:
     authors: <strong>Zicheng Wang</strong>, Zhen Zhao, Yiming Wu, Luping Zhou and Dong Xu
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2303.01276
+    pdf: https://arxiv.org/pdf/2311.16474
     code: https://github.com/xiaoyao3302/PCFEA
     image: ./assets/img/PCFEA.png
 
@@ -28,6 +28,6 @@ main:
     authors: <strong>Zicheng Wang</strong>, Wen Li and Dong Xu
     conference_short: T-CSVT
     conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(T-CSVT)</strong>, 2023.
-    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10124433
+    pdf: https://ieeexplore.ieee.org/document/10124433
     image: ./assets/img/DAS.png
 
