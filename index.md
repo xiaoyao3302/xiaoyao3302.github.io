@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a first-year Ph.D. candidate at the University of Sydney, supervised by [Prof. Luping Zhou](https://sites.google.com/view/lupingzhou/home). I work closely with [Prof. Dong Xu](https://www.cs.hku.hk/people/academic-staff/dongxu) fron the University of Hong Kong and [Prof. Wen Li](https://wenli-vision.github.io/) from the University of Electronic Science and Technology of China. I also work closely with [Dr. Zhen Zhao](http://zhaozhen.me/) from Shanghai AI Laboratory and [Dr. Yiming Wu](https://sites.google.com/site/yimingwu0/home) from the University of Hong Kong.
+I am currently a first-year Ph.D. candidate at the University of Sydney, supervised by [Prof. Luping Zhou](https://sites.google.com/view/lupingzhou/home). I work closely with [Prof. Dong Xu](https://www.cs.hku.hk/people/academic-staff/dongxu) from the University of Hong Kong and [Prof. Wen Li](https://wenli-vision.github.io/) from the University of Electronic Science and Technology of China. I also work closely with [Dr. Zhen Zhao](http://zhaozhen.me/) from Shanghai AI Laboratory and [Dr. Yiming Wu](https://sites.google.com/site/yimingwu0/home) from the University of Hong Kong.
 
 ## Research Interests
 
