@@ -14,7 +14,7 @@ I am a first-year PhD student at UCL Queen Square Institute of Neurology, workin
 
 ## News
 
-- **[Oct. 2025]** Joined UCL as a PhD student!
+- **[Oct. 2025]** Joined UCL as a fully-funded PhD student!
 - **[Jul. 2024]** Two papers accepted by ECCV 2024.
 - **[Mar. 2024]** Awarded University of Sydney International Scholarship!
 - **[Dec. 2023]** One paper accepted by T-CSVT.
