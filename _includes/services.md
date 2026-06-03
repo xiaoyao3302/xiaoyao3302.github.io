@@ -1,16 +1,23 @@
 ## Services
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
-
 <ul style="margin:0 0 5px;">
   <li><a href="http://cvpr2024.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</autocolor></a></li>
+</ul>
+<ul style="margin:0 0 5px;">
+  <li><a href="https://eccv.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV)</autocolor></a></li>
+</ul>
+<ul style="margin:0 0 5px;">
+  <li><a href="https://icml.cc/"><autocolor>International Conference on Machine Learning (ICML)</autocolor></a></li>
+</ul>
+<ul style="margin:0 0 5px;">
+  <li><a href="https://neurips.cc/"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS)</autocolor></a></li>
 </ul>
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.ijcai.org/"><autocolor>International Joint Conferences on Artificial Intelligence (IJCAI)</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-
 <ul style="margin:0 0 5px;">
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
 </ul>
